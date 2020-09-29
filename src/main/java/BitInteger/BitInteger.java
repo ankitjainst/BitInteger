@@ -1,6 +1,6 @@
 package BitInteger;
 
-//Store java integers to little endian or big endian notation
+//Store java integers according to little endian or big endian notation
 //Provides methods to convert from and back java integers
 public class BitInteger {
     public static final String bigEndian = "bigEndian";
